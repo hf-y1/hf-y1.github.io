@@ -40,7 +40,7 @@
 	
 	// Circular Progress Bar
 	
-	var isAnimated = false;
+	var isAnimated = true;
 	
 	
 })(jQuery);
